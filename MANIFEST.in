@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include metabase_dashboards *.css
+recursive-include metabase_dashboards *.csv
+recursive-include metabase_dashboards *.html
+recursive-include metabase_dashboards *.ico
+recursive-include metabase_dashboards *.js
+recursive-include metabase_dashboards *.json
+recursive-include metabase_dashboards *.md
+recursive-include metabase_dashboards *.png
+recursive-include metabase_dashboards *.py
+recursive-include metabase_dashboards *.svg
+recursive-include metabase_dashboards *.txt
+recursive-exclude metabase_dashboards *.pyc
