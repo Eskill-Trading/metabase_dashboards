@@ -6,9 +6,11 @@ def get_data():
 	return [
 		{
 			"module_name": "Metabase Dashboards",
-			"color": "grey",
-			"icon": "octicon octicon-file-directory",
+			"category": "Places",
+			"color": "#16a085",
+			"icon": "octicon octicon-graph",
 			"type": "module",
-			"label": _("Metabase Dashboards")
-		}
+			"label": _("Metabase Dashboards"),
+			"_label": _("Metabase Dashboards"),
+		},
 	]
