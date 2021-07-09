@@ -20,7 +20,7 @@
   }
  ],
  "issingle": 1,
- "modified": "2020-10-14 12:33:13.515765",
+ "modified": "2021-03-05 16:28:41.028044",
  "modified_by": "Administrator",
  "module": "Metabase Dashboards",
  "name": "Employee Metrics",
@@ -39,7 +39,5 @@
  ],
  "quick_entry": 1,
  "sort_field": "modified",
- "sort_order": "DESC",
- "track_changes": 1,
- "track_views": 1
+ "sort_order": "DESC"
 }
